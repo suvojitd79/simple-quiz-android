@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quizzo</string>
+    <string name="q1">Which was the book written by Zoroaster?</string>
+    <string name="q2">What was the important event which took place in 1665?</string>
+    <string name="q3">What is the science of colors?</string>
+    <string name="q4">Which force done by the system will increase the potential energy of the system?</string>
+    <string name="q5">Who invented the microwave?</string>
+    <string name="q6">The atmosphere is held to the earth by _?</string>
+    <string name="q7">The band width of fringes is independent of what?</string>
+    <string name="q8">What is the function of ‘Tendril’ in plants?</string>
+    <string name="q9">What is the phenomenon that makes light to propagate through optical fibre?</string>
+    <string name="q10">Who founded the branch of science known as spectroscopy?</string>
+
+
+    <string name="a1">TRUE</string>
+    <string name="a2">FALSE</string>
+
+    <string name="score">SCORE 0 /10 </string>
+
+</resources>
